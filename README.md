@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @martin wainaina
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Martin Mainaina
+- 👀 I’m interested in fullstack webdevelopment, UI/UX design 
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on futuristic technological solutions to problems facing the society
 - 📫 How to reach me on email martinwainainaonly1@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
